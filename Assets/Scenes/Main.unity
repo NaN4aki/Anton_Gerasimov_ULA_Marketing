@@ -516,6 +516,27 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 706116724}
   m_CullTransparentMesh: 1
+--- !u!1 &761928216 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2106443749869297502, guid: f04c42e26d5e3b24ba95067d25d35c13, type: 3}
+  m_PrefabInstance: {fileID: 3647681481975881328}
+  m_PrefabAsset: {fileID: 0}
+--- !u!111 &761928218
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 761928216}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: -623603649343465320, guid: f25f57284984f1443b0107f0393018f3, type: 3}
+  m_Animations:
+  - {fileID: -623603649343465320, guid: f25f57284984f1443b0107f0393018f3, type: 3}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &810568106
 GameObject:
   m_ObjectHideFlags: 0
@@ -1340,3 +1361,60 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1992270361}
   m_CullTransparentMesh: 1
+--- !u!1001 &3647681481975881328
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 881577735261813261, guid: f04c42e26d5e3b24ba95067d25d35c13, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 881577735261813261, guid: f04c42e26d5e3b24ba95067d25d35c13, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 881577735261813261, guid: f04c42e26d5e3b24ba95067d25d35c13, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 881577735261813261, guid: f04c42e26d5e3b24ba95067d25d35c13, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 881577735261813261, guid: f04c42e26d5e3b24ba95067d25d35c13, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881577735261813261, guid: f04c42e26d5e3b24ba95067d25d35c13, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 881577735261813261, guid: f04c42e26d5e3b24ba95067d25d35c13, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 881577735261813261, guid: f04c42e26d5e3b24ba95067d25d35c13, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 881577735261813261, guid: f04c42e26d5e3b24ba95067d25d35c13, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 881577735261813261, guid: f04c42e26d5e3b24ba95067d25d35c13, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 881577735261813261, guid: f04c42e26d5e3b24ba95067d25d35c13, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2106443749869297502, guid: f04c42e26d5e3b24ba95067d25d35c13, type: 3}
+      propertyPath: m_Name
+      value: GirlTalking
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f04c42e26d5e3b24ba95067d25d35c13, type: 3}
