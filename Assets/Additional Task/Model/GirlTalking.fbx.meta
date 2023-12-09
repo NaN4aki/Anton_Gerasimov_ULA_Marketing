@@ -43,10 +43,10 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Scene
-      takeName: Scene
+      name: Armature|PhoneTalking
+      takeName: Armature|PhoneTalking
       internalID: -623603649343465320
-      firstFrame: 1
+      firstFrame: 0
       lastFrame: 150
       wrapMode: 4
       orientationOffsetY: 0
