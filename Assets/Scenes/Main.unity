@@ -98,7 +98,7 @@ LightmapSettings:
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 0}
-  m_LightingSettings: {fileID: 0}
+  m_LightingSettings: {fileID: 4890085278179872738, guid: d631c0df92f3978499b1d82853ce60fe, type: 2}
 --- !u!196 &4
 NavMeshSettings:
   serializedVersion: 2
@@ -284,9 +284,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 497283579}
     m_Modifications:
+    - target: {fileID: 4327427886686777207, guid: 4b3e8de0809d85b439af8ccb2b782ecf, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8962860998626208174, guid: 4b3e8de0809d85b439af8ccb2b782ecf, type: 3}
       propertyPath: m_Name
       value: florNWall-env_3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8962860998626208174, guid: 4b3e8de0809d85b439af8ccb2b782ecf, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8962860998626208175, guid: 4b3e8de0809d85b439af8ccb2b782ecf, type: 3}
       propertyPath: m_RootOrder
@@ -854,9 +862,17 @@ PrefabInstance:
       propertyPath: m_LocalPosition.x
       value: 1.0699997
       objectReference: {fileID: 0}
+    - target: {fileID: 4327427886686777207, guid: 4b3e8de0809d85b439af8ccb2b782ecf, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8962860998626208174, guid: 4b3e8de0809d85b439af8ccb2b782ecf, type: 3}
       propertyPath: m_Name
       value: florNWall-env_7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8962860998626208174, guid: 4b3e8de0809d85b439af8ccb2b782ecf, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8962860998626208175, guid: 4b3e8de0809d85b439af8ccb2b782ecf, type: 3}
       propertyPath: m_RootOrder
@@ -2240,9 +2256,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 497283579}
     m_Modifications:
+    - target: {fileID: 4327427886686777207, guid: 4b3e8de0809d85b439af8ccb2b782ecf, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8962860998626208174, guid: 4b3e8de0809d85b439af8ccb2b782ecf, type: 3}
       propertyPath: m_Name
       value: florNWall-env_4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8962860998626208174, guid: 4b3e8de0809d85b439af8ccb2b782ecf, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8962860998626208175, guid: 4b3e8de0809d85b439af8ccb2b782ecf, type: 3}
       propertyPath: m_RootOrder
@@ -2588,9 +2612,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 497283579}
     m_Modifications:
+    - target: {fileID: 4327427886686777207, guid: 4b3e8de0809d85b439af8ccb2b782ecf, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8962860998626208174, guid: 4b3e8de0809d85b439af8ccb2b782ecf, type: 3}
       propertyPath: m_Name
       value: florNWall-env-4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8962860998626208174, guid: 4b3e8de0809d85b439af8ccb2b782ecf, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8962860998626208175, guid: 4b3e8de0809d85b439af8ccb2b782ecf, type: 3}
       propertyPath: m_RootOrder
@@ -2650,9 +2682,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 497283579}
     m_Modifications:
+    - target: {fileID: 4327427886686777207, guid: 4b3e8de0809d85b439af8ccb2b782ecf, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8962860998626208174, guid: 4b3e8de0809d85b439af8ccb2b782ecf, type: 3}
       propertyPath: m_Name
       value: florNWall-env-2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8962860998626208174, guid: 4b3e8de0809d85b439af8ccb2b782ecf, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8962860998626208175, guid: 4b3e8de0809d85b439af8ccb2b782ecf, type: 3}
       propertyPath: m_RootOrder
@@ -2761,9 +2801,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1269528949335063122, guid: 43ed392bc9a3ce84fb307c41eeecc30f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 2472791255081817824, guid: 43ed392bc9a3ce84fb307c41eeecc30f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 6204898968940592529, guid: 43ed392bc9a3ce84fb307c41eeecc30f, type: 3}
       propertyPath: m_Name
       value: soldOutSign-env
+      objectReference: {fileID: 0}
+    - target: {fileID: 6204898968940592529, guid: 43ed392bc9a3ce84fb307c41eeecc30f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8004236186947025846, guid: 43ed392bc9a3ce84fb307c41eeecc30f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 43ed392bc9a3ce84fb307c41eeecc30f, type: 3}
@@ -2879,9 +2935,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 497283579}
     m_Modifications:
+    - target: {fileID: 4327427886686777207, guid: 4b3e8de0809d85b439af8ccb2b782ecf, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8962860998626208174, guid: 4b3e8de0809d85b439af8ccb2b782ecf, type: 3}
       propertyPath: m_Name
       value: florNWall-env_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8962860998626208174, guid: 4b3e8de0809d85b439af8ccb2b782ecf, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8962860998626208175, guid: 4b3e8de0809d85b439af8ccb2b782ecf, type: 3}
       propertyPath: m_RootOrder
@@ -3037,9 +3101,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 497283579}
     m_Modifications:
+    - target: {fileID: 4327427886686777207, guid: 4b3e8de0809d85b439af8ccb2b782ecf, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8962860998626208174, guid: 4b3e8de0809d85b439af8ccb2b782ecf, type: 3}
       propertyPath: m_Name
       value: florNWall-env-1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8962860998626208174, guid: 4b3e8de0809d85b439af8ccb2b782ecf, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8962860998626208175, guid: 4b3e8de0809d85b439af8ccb2b782ecf, type: 3}
       propertyPath: m_RootOrder
@@ -3791,9 +3863,17 @@ PrefabInstance:
       propertyPath: m_LocalPosition.x
       value: 1.0699997
       objectReference: {fileID: 0}
+    - target: {fileID: 4327427886686777207, guid: 4b3e8de0809d85b439af8ccb2b782ecf, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8962860998626208174, guid: 4b3e8de0809d85b439af8ccb2b782ecf, type: 3}
       propertyPath: m_Name
       value: florNWall-env_6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8962860998626208174, guid: 4b3e8de0809d85b439af8ccb2b782ecf, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8962860998626208175, guid: 4b3e8de0809d85b439af8ccb2b782ecf, type: 3}
       propertyPath: m_RootOrder
@@ -3857,9 +3937,17 @@ PrefabInstance:
       propertyPath: m_LocalPosition.x
       value: 1.0699997
       objectReference: {fileID: 0}
+    - target: {fileID: 4327427886686777207, guid: 4b3e8de0809d85b439af8ccb2b782ecf, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8962860998626208174, guid: 4b3e8de0809d85b439af8ccb2b782ecf, type: 3}
       propertyPath: m_Name
       value: florNWall-env_5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8962860998626208174, guid: 4b3e8de0809d85b439af8ccb2b782ecf, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8962860998626208175, guid: 4b3e8de0809d85b439af8ccb2b782ecf, type: 3}
       propertyPath: m_RootOrder
@@ -3919,9 +4007,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 497283579}
     m_Modifications:
+    - target: {fileID: 4327427886686777207, guid: 4b3e8de0809d85b439af8ccb2b782ecf, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8962860998626208174, guid: 4b3e8de0809d85b439af8ccb2b782ecf, type: 3}
       propertyPath: m_Name
       value: 'florNWall-env-3 '
+      objectReference: {fileID: 0}
+    - target: {fileID: 8962860998626208174, guid: 4b3e8de0809d85b439af8ccb2b782ecf, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8962860998626208175, guid: 4b3e8de0809d85b439af8ccb2b782ecf, type: 3}
       propertyPath: m_RootOrder
@@ -3981,9 +4077,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 497283579}
     m_Modifications:
+    - target: {fileID: 4327427886686777207, guid: 4b3e8de0809d85b439af8ccb2b782ecf, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8962860998626208174, guid: 4b3e8de0809d85b439af8ccb2b782ecf, type: 3}
       propertyPath: m_Name
       value: florNWall-env_2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8962860998626208174, guid: 4b3e8de0809d85b439af8ccb2b782ecf, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8962860998626208175, guid: 4b3e8de0809d85b439af8ccb2b782ecf, type: 3}
       propertyPath: m_RootOrder
@@ -4489,9 +4593,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 497283579}
     m_Modifications:
+    - target: {fileID: 4327427886686777207, guid: 4b3e8de0809d85b439af8ccb2b782ecf, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8962860998626208174, guid: 4b3e8de0809d85b439af8ccb2b782ecf, type: 3}
       propertyPath: m_Name
       value: florNWall-env-0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8962860998626208174, guid: 4b3e8de0809d85b439af8ccb2b782ecf, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8962860998626208175, guid: 4b3e8de0809d85b439af8ccb2b782ecf, type: 3}
       propertyPath: m_RootOrder
